@@ -3,8 +3,7 @@
 ### I contribute to:
 
 * [GoBlocks](https://github.com/Silabear/GoBlocks)
-* [JustDeleteMe](https://justdeleteme.xyz)
-* [JustGetMyData](https://justgetmydata.com)
+* [JustDeleteMe](https://justdeleteme.xyz) / [JustGetMyData](https://justgetmydata.com)
 
 ### I like to work with:
 
