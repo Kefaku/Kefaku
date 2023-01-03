@@ -5,6 +5,10 @@
 * [GoBlocks](https://github.com/Silabear/GoBlocks)
 * [JustDeleteMe](https://justdeleteme.xyz) / [JustGetMyData](https://justgetmydata.com)
 
+### My stats:
+
+![Kefaku's Stats](https://github-readme-stats.vercel.app/api?username=Kefaku&show_icons=true&theme=swift&)
+
 ### I like to work with:
 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
