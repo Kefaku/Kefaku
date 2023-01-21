@@ -7,7 +7,7 @@
 
 ### My stats:
 
-![Kefaku's Stats](https://github-readme-stats.vercel.app/api?username=Kefaku&show_icons=true&theme=swift&)
+![Kefaku's Stats](https://github-readme-stats.vercel.app/api?username=Kefaku&show_icons=true&theme=swift)
 
 ### I like to work with:
 
