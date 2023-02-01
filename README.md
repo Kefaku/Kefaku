@@ -4,6 +4,7 @@
 
 * [GoBlocks](https://github.com/Silabear/GoBlocks)
 * [JustDeleteMe](https://justdeleteme.xyz) / [JustGetMyData](https://justgetmydata.com)
+* [Microsoft MakeCode (Translating on Crowdin)](https://crowdin.com/project/makecode)
 
 ### My stats:
 
