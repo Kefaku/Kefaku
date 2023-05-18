@@ -8,7 +8,8 @@
 
 ### My stats:
 
-![Kefaku's Stats](https://github-readme-stats.vercel.app/api?username=Kefaku&show_icons=true&theme=swift)
+![Kefaku's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kefaku&theme=nord_dark)
+![Kefaku's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kefaku&theme=nord_dark)
 
 ### I like to work with:
 
