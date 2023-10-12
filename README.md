@@ -8,8 +8,7 @@
 
 ### My stats:
 
-![Kefaku's Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kefaku&theme=nord_dark)
-![Kefaku's Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kefaku&theme=nord_dark)
+![Stats Card](https://github-readme-stats.vercel.app/api/?username=kefaku&show_icons=true&hide=contribs&show=reviews,prs_merged&rank_icon=percentile&theme=shadow_green)
 
 ### Things I like:
 
