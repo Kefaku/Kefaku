@@ -1,16 +1,10 @@
 # 👋 Hi, I'm Kefaku!
 
-### I contribute to:
+### 📈 My stats
 
-* [GoBlocks](https://github.com/Silabear/GoBlocks)
-* [JustDeleteMe](https://justdeleteme.xyz) / [JustGetMyData](https://justgetmydata.com)
-* [Microsoft MakeCode (Translating on Crowdin)](https://crowdin.com/project/makecode)
+![Stats Card](https://github-readme-stats.vercel.app/api/?username=kefaku&show_icons=true&hide=contribs&show=reviews,prs_merged&rank_icon=percentile&include_all_commits=true&theme=shadow_green)
 
-### My stats:
-
-![Stats Card](https://github-readme-stats.vercel.app/api/?username=kefaku&show_icons=true&hide=contribs&show=reviews,prs_merged&rank_icon=percentile&theme=shadow_green)
-
-### Things I like:
+### ❤️ Things I like
 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus"> </a> 
 <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank"> <img src="https://skillicons.dev/icons?i=cs" alt="csharp"/> </a>
@@ -24,3 +18,6 @@
 <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"> <img src="https://skillicons.dev/icons?i=linux" alt="linux"/> </a>
 <a href="https://en.wikipedia.org/wiki/Stack_Overflow" target="_blank"> <img src="https://skillicons.dev/icons?i=stackoverflow" alt="stackoverflow"/> </a>
 <a href="https://en.wikipedia.org/wiki/Discord" target="_blank"> <img src="https://skillicons.dev/icons?i=discord" alt="discord"/> </a>
+
+### 🏅 My badges
+[![holopin board](https://holopin.me/kefaku)](https://holopin.io/@kefaku)
