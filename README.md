@@ -2,7 +2,7 @@
 
 ### 📈 My stats
 
-![Stats Card](https://github-readme-stats.vercel.app/api/?username=kefaku&show_icons=true&hide=contribs&show=reviews,prs_merged&rank_icon=percentile&include_all_commits=true&theme=shadow_green)
+![Stats Card](https://github-readme-stats.vercel.app/api/?username=kefaku&show_icons=true&hide=contribs&show=reviews,prs_merged&rank_icon=percentile&theme=shadow_green)
 
 ### ❤️ Things I like
 
