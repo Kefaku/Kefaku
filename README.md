@@ -4,6 +4,14 @@
 
 ![Stats Card](https://github-readme-stats.vercel.app/api/?username=kefaku&show_icons=true&hide=contribs&show=reviews,prs_merged&rank_icon=percentile&theme=shadow_green)
 
+### 💻 Recent Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#1839](https://github.com/jdm-contrib/jdm/issues/1839#issuecomment-1767879712) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
+2. 🗣 Commented on [#1839](https://github.com/jdm-contrib/jdm/issues/1839#issuecomment-1767799663) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
+3. 💪 Opened PR [#1838](https://github.com/jdm-contrib/jdm/pull/1838) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
+<!--END_SECTION:activity-->
+
 ### ❤️ Things I like
 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus"> </a> 
@@ -21,11 +29,3 @@
 
 ### 🏅 My badges
 [![holopin board](https://holopin.me/kefaku)](https://holopin.io/@kefaku)
-
-### 💻 Recent Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#1839](https://github.com/jdm-contrib/jdm/issues/1839#issuecomment-1767879712) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
-2. 🗣 Commented on [#1839](https://github.com/jdm-contrib/jdm/issues/1839#issuecomment-1767799663) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
-3. 💪 Opened PR [#1838](https://github.com/jdm-contrib/jdm/pull/1838) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
-<!--END_SECTION:activity-->
