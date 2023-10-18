@@ -21,3 +21,7 @@
 
 ### 🏅 My badges
 [![holopin board](https://holopin.me/kefaku)](https://holopin.io/@kefaku)
+
+### 💻 Recent Activity</summary>
+
+<!--START_SECTION:activity-->
