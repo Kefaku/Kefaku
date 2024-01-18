@@ -7,9 +7,9 @@
 ### 💻 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/Datapack-Hub/frontend/pull/35) in [Datapack-Hub/frontend](https://github.com/Datapack-Hub/frontend)
-2. 💪 Opened PR [#34](https://github.com/Datapack-Hub/frontend/pull/34) in [Datapack-Hub/frontend](https://github.com/Datapack-Hub/frontend)
-3. 💪 Opened PR [#33](https://github.com/Datapack-Hub/frontend/pull/33) in [Datapack-Hub/frontend](https://github.com/Datapack-Hub/frontend)
+1. 💪 Opened PR [#38](https://github.com/Datapack-Hub/frontend/pull/38) in [Datapack-Hub/frontend](https://github.com/Datapack-Hub/frontend)
+2. 🗣 Commented on [#37](https://github.com/Datapack-Hub/frontend/pull/37#issuecomment-1898886302) in [Datapack-Hub/frontend](https://github.com/Datapack-Hub/frontend)
+3. 💪 Opened PR [#37](https://github.com/Datapack-Hub/frontend/pull/37) in [Datapack-Hub/frontend](https://github.com/Datapack-Hub/frontend)
 <!--END_SECTION:activity-->
 
 ### ❤️ Things I like
