@@ -7,9 +7,9 @@
 ### 💻 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1600](https://github.com/modrinth/knossos/issues/1600#issuecomment-1905437855) in [modrinth/knossos](https://github.com/modrinth/knossos)
-2. 💪 Opened PR [#39](https://github.com/Datapack-Hub/frontend/pull/39) in [Datapack-Hub/frontend](https://github.com/Datapack-Hub/frontend)
-3. 🗣 Commented on [#1600](https://github.com/modrinth/knossos/issues/1600#issuecomment-1904810014) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 💪 Opened PR [#1968](https://github.com/jdm-contrib/jdm/pull/1968) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
+2. ❌ Closed PR [#1924](https://github.com/jdm-contrib/jdm/pull/1924) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
+3. 🗣 Commented on [#1600](https://github.com/modrinth/knossos/issues/1600#issuecomment-1905437855) in [modrinth/knossos](https://github.com/modrinth/knossos)
 <!--END_SECTION:activity-->
 
 ### ❤️ Things I like
