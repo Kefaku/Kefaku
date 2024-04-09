@@ -7,9 +7,9 @@
 ### 💻 Recent Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2028](https://github.com/jdm-contrib/jdm/pull/2028) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
-2. 💪 Opened PR [#2018](https://github.com/jdm-contrib/jdm/pull/2018) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
-3. 🔒 Closed issue [#1654](https://github.com/modrinth/knossos/issues/1654) in [modrinth/knossos](https://github.com/modrinth/knossos)
+1. 🗣 Commented on [#40](https://github.com/AvaloniaUI/AvaloniaVSCode/issues/40#issuecomment-2045977756) in [AvaloniaUI/AvaloniaVSCode](https://github.com/AvaloniaUI/AvaloniaVSCode)
+2. 💪 Opened PR [#2028](https://github.com/jdm-contrib/jdm/pull/2028) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
+3. 💪 Opened PR [#2018](https://github.com/jdm-contrib/jdm/pull/2018) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
 <!--END_SECTION:activity-->
 
 ### ❤️ Things I like
