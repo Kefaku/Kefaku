@@ -4,14 +4,6 @@
 
 ![Stats Card](https://github-readme-stats.vercel.app/api/?username=kefaku&show_icons=true&hide=contribs&show=reviews,prs_merged&rank_icon=percentile&theme=shadow_green)
 
-### 💻 Recent Activity</summary>
-
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ifak-prototypes/speech_recognition_srcsd/pull/2) in [ifak-prototypes/speech_recognition_srcsd](https://github.com/ifak-prototypes/speech_recognition_srcsd)
-2. 🗣 Commented on [#2076](https://github.com/jdm-contrib/jdm/issues/2076#issuecomment-2115472051) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
-3. 🗣 Commented on [#2059](https://github.com/jdm-contrib/jdm/issues/2059#issuecomment-2081057096) in [jdm-contrib/jdm](https://github.com/jdm-contrib/jdm)
-<!--END_SECTION:activity-->
-
 ### ❤️ Things I like
 
 <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus"> </a> 
